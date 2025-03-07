@@ -26,7 +26,7 @@ const samplePosts = [
     }
     ,
     {
-        img: './public/images/post-images/blog-image_002.jpg',
+        img: './public/images/post-images/blog-image_002.png',
         title: 'Book Review: Stephen King’s The Institute',
         date: 'February 20, 2025',
         excerpt: 'Luke Ellis is a gifted child. Unfortunately, his gifts include telekinesis, making him a target for the Institute, a black-site facility where young children with extraordinary abilities are experimented upon.',
